@@ -1,0 +1,15 @@
+$bg-color: rgba(219, 49, 205, 0.651);
+
+body {
+    background: $bg-color;
+    height: 400vh;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 100px;
+}
+
+p {
+    margin-block: 20vh;
+}

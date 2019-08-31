@@ -1,0 +1,10 @@
+body {
+  background: rgba(219, 49, 205, 0.651);
+  height: 400vh; }
+
+h1 {
+  font-style: italic;
+  font-size: 100px; }
+
+p {
+  margin-block: 20vh; }
